@@ -1,4 +1,4 @@
-# ddrl-firefighting
+# Deep Reinforcement Learning - Firefighting
 
 
 ### Requirements
