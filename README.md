@@ -1,1 +1,1 @@
-# Reinforcement-Enhanced-Aerial-Fire-Control-via-Satellites-and-UAVs
+# Reinforcement-Enhanced Aerial Fire Control via Satellites and UAVs
